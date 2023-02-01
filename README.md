@@ -2,5 +2,7 @@
 
 I am Hashwanth Gogineni, graduate student with practical experience in Data Science, Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on my Github skills
-- 🌱 I’m currently pursuing my masters in computer science
+- 🌱 Currently pursuing my masters in computer science
+- 👓 Worked as a Data Scientist
+- 🏆 Did multiple certifications in Data science, Web development & Big Data 
+- 🔭 Working on my Github skills
